@@ -1,8 +1,14 @@
-# Planificador de palabras clave (Zoom In)
+# Planificador de palabras clave para SEO
+
+Una herramienta gratis de [DUPAVI](https://dupavi.es/recursos/planificador-palabras-clave/), hecha por Eduard Pampalona, consultor SEO.
 
 Escribes una palabra clave y te devuelve las búsquedas relacionadas que hace la gente en Google, con su volumen, la tendencia, el CPC, la dificultad y la intención, ya agrupadas por tema. Es un cuaderno de Google Colab que usa los datos de DataForSEO: no instalas nada.
 
-[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/eeduuu/planificador-palabras-clave/blob/main/planificador-palabras-clave.ipynb)
+[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/eeduuu/planificador-palabras-clave-seo/blob/main/planificador-palabras-clave-seo.ipynb)
+
+![Con «cirugía estética», el Planificador de Google retira todas las palabras clave; este planificador saca 73 búsquedas en 10 temas](img/comparacion.png)
+
+Todo sobre la herramienta, en su página: [dupavi.es/recursos/planificador-palabras-clave](https://dupavi.es/recursos/planificador-palabras-clave/).
 
 ## Para qué sirve
 
@@ -32,6 +38,10 @@ Escribes una palabra clave y te devuelve las búsquedas relacionadas que hace la
 - **La intención y los grupos se calculan de forma automática:** revísalos antes de decidir nada.
 
 Es una primera versión pública. Si echas algo en falta, abre una *issue*.
+
+## ¿Lo quieres adaptado a tu empresa?
+
+Si necesitas decidir qué búsquedas trabajar en tu web, o una herramienta pensada para tu caso, [cuéntamelo en dupavi.es](https://dupavi.es/recursos/planificador-palabras-clave/#formulario).
 
 ## Autor
 
