@@ -16,7 +16,7 @@ Todo sobre la herramienta, en su página: [dupavi.es/recursos/planificador-palab
 - **Ver los temas de un vistazo:** las búsquedas salen agrupadas, y cada grupo puede ser una página de tu web.
 - **Filtrar sin gastar:** quitar lo que no es de tu negocio, quedarte con la intención comercial, ordenar por CPC, poner un volumen mínimo o separar las búsquedas que nombran otras ciudades.
 - **Varios países a la vez:** lo que en España es «lifting facial», en México se busca como «estiramiento facial».
-- **Descargarlo en Excel**, con el volumen de cada mes y el resumen de los grupos, o en CSV.
+- **Descargarlo en Excel**, con el volumen de cada mes, el resumen de los grupos y las búsquedas que se han quitado, con el motivo; o en CSV.
 
 ## Qué necesitas
 
@@ -35,6 +35,7 @@ Todo sobre la herramienta, en su página: [dupavi.es/recursos/planificador-palab
 
 - **No decide por ti.** Te da las búsquedas ordenadas; cuáles vale la pena trabajar depende de tu negocio, de tu web y de quién se lleva hoy esas búsquedas.
 - **Los volúmenes son estimaciones** (datos de Google Ads, a través de DataForSEO). A veces la palabra principal no tiene volumen, y en algunos sectores casi no hay dato de dificultad: una dificultad 0 no quiere decir fácil.
+- **En los temas que Google no deja anunciar** (por ejemplo, el CBD), Google no da el volumen de algunas búsquedas. Eso no quiere decir que nadie las busque. No salen en la tabla, pero no se pierden: están en la hoja «Descartadas» del Excel, con el motivo.
 - **La intención y los grupos se calculan de forma automática:** revísalos antes de decidir nada.
 
 Es una primera versión pública. Si echas algo en falta, abre una *issue*.
